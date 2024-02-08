@@ -1,4 +1,4 @@
-name: gallery_app
+name: PicSumGalleryApp
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -40,6 +40,10 @@ dependencies:
   animated_splash_screen: ^1.3.0
   cupertino_icons: ^1.0.2
   google_fonts: ^6.1.0
+  share:
+  share_plus:
+  path_provider:
+
 
 dev_dependencies:
   flutter_test:

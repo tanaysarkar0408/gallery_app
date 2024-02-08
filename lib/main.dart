@@ -1,6 +1,6 @@
 import 'package:animated_splash_screen/animated_splash_screen.dart';
 import 'package:flutter/material.dart';
-import 'package:gallery_app/theme_provider.dart';
+import 'theme_provider.dart';
 import 'package:provider/provider.dart';
 import 'homepage.dart';
 
