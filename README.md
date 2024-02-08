@@ -1,7 +1,10 @@
 # gallery_app
 ![](https://img.shields.io/static/v1?style=for-the-badge&label=POWERED%20BY&message=FLUTTER&color=02569B&logo=FLUTTER)
 
-![picsumApp](https://github.com/tanaysarkar0408/gallery_app/assets/108966939/46af4bbb-83cd-4a69-a6bc-d9435609ba02)
+# Have a look
+https://github.com/tanaysarkar0408/gallery_app/assets/108966939/02626c34-8b55-48c8-8c43-02d185859f78
+<br>
+I added share feature in this.
 
 I created this Gallery app using Picsum API <br>
 
