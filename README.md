@@ -13,4 +13,4 @@ When you tap on an image it zooms and provides details. <br>
 You can also double tap to zoom on the image.
 
 
-[Download Now]((https://github.com/tanaysarkar0408/gallery_app/releases/tag/v0.2))
+[Download Now](https://github.com/tanaysarkar0408/gallery_app/releases/tag/v0.2)
